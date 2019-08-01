@@ -1,2 +1,0 @@
-# BuscaBinariaReactJS
-Created with CodeSandbox
